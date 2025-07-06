@@ -1,0 +1,67 @@
+body {
+  background-color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.poster-text {
+  max-width: 600px;
+  text-align: left;
+  padding: 20px;
+  color: #2e2e2e;
+}
+
+.poster-text h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+}
+
+.poster-text p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+.poster-gallery {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin: 40px 20px;
+}
+
+.poster-item {
+  text-align: center;
+  max-width: 250px;
+}
+
+.poster-item img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+
+.poster-item img:hover {
+  transform: scale(1.05);
+}
+
+.poster-item h2 {
+  margin-top: 15px;
+  font-size: 22px;
+  color: #2a7f62;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.poster-item p {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #333;
+}
