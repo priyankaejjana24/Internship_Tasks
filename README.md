@@ -7,12 +7,14 @@ This mini project is part of my internship tasks and focuses on creating visuall
 ### 🔹 Project Description
 
 The project includes the creation and display of digital posters for:
-
 1. Environment – Caption: *Preserve*
 2. Career Guidance – Caption: *Elevate*
-3. College Fest- Caption: *Ignite* 
+3. College Fest- Caption: *Ignite*
 
-Each poster is designed with a custom image and styled layout to communicate its message effectively.
+This task focused on the design and development of digital posters and flyers that are:
+🎨 Visually appealing.
+📣 Effective in communicating messages to the public.
+📱 Optimized for digital platforms.
 
 ### 🔹 Technologies Used
 
