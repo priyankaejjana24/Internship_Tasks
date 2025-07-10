@@ -1,29 +1,77 @@
-# Internship_Tasks
+# Zentread 👟
 
-## Posters and Filters
+![Zentread Logo](assets/logo.svg)
 
-This mini project is part of my internship tasks and focuses on creating visually appealing digital posters for various themes using HTML and CSS.
+Zentread — Minimalist Footwear • Pure Stride
 
-### 🔹 Project Description
+---
 
-The project includes the creation and display of digital posters for:
-1. Environment – Caption: *Preserve*
-2. Career Guidance – Caption: *Elevate*
-3. College Fest- Caption: *Ignite*
+## 📘 Table of Contents
 
-This task focused on the design and development of digital posters and flyers that are:
-🎨 Visually appealing.
-📣 Effective in communicating messages to the public.
-📱 Optimized for digital platforms.
+- [About](#about)  
+- [Demo](#demo)  
+- [Project Structure](#project-structure)  
+- [Installation](#installation)
+- [Usage](#usage)  
+- [Branding & Assets](#branding--assets)  
+- [Contributing](#contributing)  
+- [License](#license)
 
-### 🔹 Technologies Used
+---
 
-- HTML5  
-- CSS3  
-- VS Code  
+## ✨ About
 
-### 🔹 How to View
+Zentread is a minimalist shoe brand focused on clean design, lightweight comfort, and everyday versatility. This mock-up project showcases a simple HTML/CSS product page featuring your logo and signature model—embracing the KISS(Keep It Simple,Stupid) principle in both design and code.
 
-1. Clone/download this repository.
-2. Open the folder in VS Code.
-3. Open internship_tasks.html in your browser or using Live Server.
+---
+
+## 🎥 Demo
+
+Open the repository’s index.html in your browser to see the live homepage featuring the logo, tagline, and featured sneaker card.
+
+---
+
+## 📁 Project Structure
+
+zentread/
+├─ assets/
+│ ├ logo.svg ← minimalist brand mark
+│ └ shoe.png ← signature model product shot
+├─ index.html ← main landing page
+├─ styles.css ← styling rules
+└─ README.md ← project overview
+
+
+## ⚙️ Installation
+
+Just clone and explore the files:
+
+`bash
+git clone https://github.com/priyankaejjana24/zentread.git
+cd zentread
+open index.html
+
+
+### 🛠 Usage
+- View the page: index.html
+
+-Update branding: replace assets/logo.svg and <h1> or .tagline
+
+-Add shoes: copy the .product-card block to showcase multiple shoe models
+
+### 🤝 Contributing
+- Contributions are welcome:
+
+1.Fork this repo
+
+2.Create a branch (git checkout -b feature)
+
+3.Add or improve content
+
+4.Submit a pull request
+
+## 📝 License
+MIT © 2025 Zentread
+
+
+
