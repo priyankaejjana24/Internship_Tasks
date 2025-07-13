@@ -1,6 +1,6 @@
 # Zentread 👟
 
-![Zentread Logo](assets/logo.svg)
+![Zentread Logo](logo.svg)
 
 Zentread — Minimalist Footwear • Pure Stride
 
