@@ -1,29 +1,72 @@
-# Internship_Tasks
+# 💼Business Card - Priyanka Keerthana Ejjana
+- A clean, stylish, and professional **business card** built using **HTML and CSS**, designed to represent **Priyanka Keerthana Ejjana**.
+- This card follows the **standard size (3.5in × 2in)** — making it perfect for printing or sharing digitally in portfolios, resumes, or job applications.
 
-## Posters and Filters
 
-This mini project is part of my internship tasks and focuses on creating visually appealing digital posters for various themes using HTML and CSS.
+## 📌 Description
 
-### 🔹 Project Description
+This project features a minimal yet modern **digital business card** with a dual-sided layout:
 
-The project includes the creation and display of digital posters for:
-1. Environment – Caption: *Preserve*
-2. Career Guidance – Caption: *Elevate*
-3. College Fest- Caption: *Ignite*
+- 🎴 **Front side**: Showcases your profile photo, name,role and contact details like email, phone, website, LinkedIn, & Github.
+- 📇 **Back side**: What I do.
 
-This task focused on the design and development of digital posters and flyers that are:
-🎨 Visually appealing.
-📣 Effective in communicating messages to the public.
-📱 Optimized for digital platforms.
+Fully responsive and customizable — this card is ideal for **UI/UX designers**, developers, and creatives wanting a simple, elegant way to introduce themselves.
 
-### 🔹 Technologies Used
 
-- HTML5  
-- CSS3  
-- VS Code  
+## 🎯 Goal
+To create a **business card** for personal branding, designed using just **HTML and CSS**, and easy to customize or print as needed.
 
-### 🔹 How to View
 
-1. Clone/download this repository.
-2. Open the folder in VS Code.
-3. Open internship_tasks.html in your browser or using Live Server.
+## ✨ Key Features
+
+- 🔹 Pocket-sized dimensions: 3.5in × 2in (336px × 192px)
+- 🔹 Front and back layout
+- 🔹 Circular profile photo
+- 🔹 Clean and modern font (Google Poppins)
+- 🔹 Fully responsive design
+- 🔹 Simple and lightweight (no frameworks)
+- 🔹 Perfect for print and digital use
+
+
+## 🧰 Tech Stack
+
+- ✅ HTML5
+- ✅ CSS3
+- ✅ Google Fonts (Poppins)
+
+
+## 📁 Project Structure
+business-card/
+- index.html # Main HTML structure
+- style.css Stylesheet for layout and design
+- card.png # Profile image
+- README.md # This file
+
+
+## 🚀 How to Use
+
+1. 🔽 **Download** or `git clone` the repository.
+2. 🖼 Replace `card.png` with your actual photo (or update image path).
+3. ✏️ Edit `index.html` to include your real contact details.
+4. 🌐 Open `index.html` in your browser to preview the card.
+5. 🖨 Optionally print it or export as a PDF for your portfolio.
+
+
+
+## 📸 Preview
+
+| Front Side                            | Back Side                             |
+|---------------------------------------|----------------------------------------|
+| *[Insert front preview image here]*   | *[Insert back preview image here]*    |
+
+> *You can generate screenshots using your browser or print preview.*
+
+
+## 🙋‍♀️ Author
+
+**Priyanka Keerthana Ejjana**  
+Data Analyst  
+📧 priyankaejjana@gmail.com  
+🌐 LinkedIn: https://www.linkedin.com/in/priyanka-keerthana-ejjana
+• GitHub: https://github.com/priyankaejjana24
+
